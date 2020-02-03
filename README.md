@@ -15,5 +15,9 @@ graphical deisgn and coding process.
 This application is to be intended to run on windows computers only. 
 (But feel free to run the python script for alternative OSs)
 
+**Please note, the images and scripts are all within the same .zip file. 
+This is one of my first projects, so i must admit i didn't organize
+the files to the best of my abilities**
+
 
 
