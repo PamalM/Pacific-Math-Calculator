@@ -1,5 +1,6 @@
 # Pacific-Math-Calculator
 Multifunctional Math Calculator created using Python and it's Tkinter Library. 
+
 Modules included within the application:
 - Basic Calculator 
 - Quadratic Formula Calculator
